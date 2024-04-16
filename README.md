@@ -2,6 +2,9 @@
 
 -Created a react app
 -Configured tailwind into our project
+-Header
+-Sign in form
+-Sign up form
 
 
 # Features
@@ -19,3 +22,7 @@
     -Search Bar
     -Movie Suggestions
 
+
+# Npm install
+ - tailwind
+ -react-router-dom
